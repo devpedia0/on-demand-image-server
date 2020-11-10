@@ -102,4 +102,8 @@ dist
 # Stores VSCode versions used for testing VSCode extensions
 .vscode-test
 
+# ETC
+.DS_Store
+CVS
+
 package-lock.json
